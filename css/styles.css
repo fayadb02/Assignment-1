@@ -1,0 +1,69 @@
+/* Fayad Berbash, 8945027*/
+body{
+   font  : normal normal normal 14px/1.5 Arial, Helvetica, sans-serif;
+   width : 100%;
+   max-width: 1400px;
+   margin: auto;
+   background-color: hsl(0, 37%, 91%);
+}
+header{
+   font-size: larger;
+   background-color: hsl(298, 66%, 77%);
+   border-radius: 25px 25px;
+   text-align: left;
+   padding: 25px 30px 25px 30px;
+   font-variant: small-caps;
+}
+h1{
+    color: rgb(168, 241, 140);
+}
+h2{
+    color: rgb(224, 84, 84);
+    font-size: 2em;
+}
+figcaption{
+    font-weight: bold;
+    font-variant: small-caps;
+}
+main{
+    float: left;
+    width: 65vw;
+}
+.mainimg{
+    border: 2px solid rgb(23, 23, 23);
+}
+q{
+    font-family: cursive;
+    font-style: italic;
+}
+aside{
+   float: right;
+   width: 25vw;
+}
+.structural{
+border: 3px solid black;
+}
+
+ul li{
+    list-style: none;
+    line-height: 1.5em;
+}
+
+ul a{
+    text-decoration: none;
+}
+
+a:hover{
+    color:darkgrey; 
+}
+
+
+footer{
+    border-radius: 35px 35px;
+    clear: both;
+}
+
+footer p{
+    font-size: 1em;
+    color:cornflowerblue;
+}
